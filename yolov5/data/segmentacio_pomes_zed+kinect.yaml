@@ -1,0 +1,7 @@
+path: ../datasets/Zed_kinect_dataset_yolo
+train: training/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['0']
