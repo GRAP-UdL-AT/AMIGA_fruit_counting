@@ -3,7 +3,7 @@ Fruit detection and tracking for yield estimation using [AMIGA robot](https://fa
 
 
 ## Introduction
-This project is a python implementation for fruit detection and tracking using [YOLOv5](https://github.com/ultralytics/yolov5) and [ByteTrack](https://github.com/ifzhang/ByteTrack). The project was build to be tested jointly with [AMIGA robot](https://farm-ng.com/) for in-field fruit conting purposes. It will be tested in the [Farm@thon](https://www.lleidadrone.com/2022/09/amiga-farmthon-fira-de-sant-miquel-2022.html) organized by [Lleida Drone](https://www.lleidadrone.com). The code was prepared to be used with a [ZED](https://github.com/stereolabs/zed-python-api) camera, but it could be easily adapted for other cameras such as [Oak-D](https://github.com/luxonis/depthai-hardware/tree/master/NG2094_OAK-D-PRO-W-DEV). 
+This project is a python implementation for fruit detection and tracking using [YOLOv5](https://github.com/ultralytics/yolov5) and [ByteTrack](https://github.com/ifzhang/ByteTrack). The project was build to be tested jointly with [AMIGA robot](https://farm-ng.com/) for in-field fruit conting purposes. It was tested in the [Farm@thon](https://www.lleidadrone.com/2022/09/amiga-farmthon-fira-de-sant-miquel-2022.html) organized by [Lleida Drone](https://www.lleidadrone.com), , where it was recognized with the first prize. The code was prepared to be used with a [ZED](https://github.com/stereolabs/zed-python-api) camera, but it could be easily adapted for other cameras such as [Oak-D](https://github.com/luxonis/depthai-hardware/tree/master/NG2094_OAK-D-PRO-W-DEV). 
 
 
 ## Preparation 
